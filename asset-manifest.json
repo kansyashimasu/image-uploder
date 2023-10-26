@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-uploder/static/css/main.99c03aa1.css",
+    "main.js": "/image-uploder/static/js/main.591a6f45.js",
+    "index.html": "/image-uploder/index.html",
+    "main.99c03aa1.css.map": "/image-uploder/static/css/main.99c03aa1.css.map",
+    "main.591a6f45.js.map": "/image-uploder/static/js/main.591a6f45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99c03aa1.css",
+    "static/js/main.591a6f45.js"
+  ]
+}
