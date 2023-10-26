@@ -1,0 +1,50 @@
+body{
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.state{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center
+}
+
+.outerBox {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: none;
+  color: gray;
+}
+
+.outerBox h2 {
+  font-weight: 600;
+  margin-top: 5px;
+}
+
+.imageUplodeBox {
+  border: 2px dashed #2d6395;
+  padding: 35px 60px;
+  position: relative;
+}
+
+.imageLogoAndText p {
+  margin-bottom: 0px;
+}
+
+.imageUploadInput {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
